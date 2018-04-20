@@ -19,7 +19,7 @@
   </a>
 </p>
 
-@(Geek Author：)[ https://github.com/jeep711 ]
+#### Geek Author：https://github.com/jeep711
 
 #### 2018 Geeks International Park One Stop Service Company Official Site (Beat_Version-1.0.1)
 #### 2018年极客国际公园一站式服务公司官方站点(Beat_Version-1.0.1) 
